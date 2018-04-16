@@ -1,0 +1,15 @@
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\bin\Release\DeleteFacebookActivity.exe.manifest
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\bin\Release\DeleteFacebookActivity.application
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\bin\Release\DeleteFacebookActivity.exe
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\bin\Release\DeleteFacebookActivity.pdb
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\bin\Release\DeleteFacebookActivity.xml
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.Resources.resources
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.vbproj.GenerateResource.cache
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.vbproj.CoreCompileInputs.cache
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.TrustInfo.xml
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.exe.manifest
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.application
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.exe
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.xml
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.pdb
+E:\Source_Code\VS.NET\DeleteFacebookActivity\DeleteFacebookActivity\obj\Release\DeleteFacebookActivity.frmMain.resources
