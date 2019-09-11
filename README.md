@@ -12,6 +12,9 @@ Yes, yes, it's VB. Stop complaining...
 ## Screenshot
 ![Delete Facebook Activity](https://raw.githubusercontent.com/Jaruzel/DeleteFacebookActivity/master/Resources/Screenshot.png)
 
+## Source Code Usage
+Download the repository and load the .sln file into Visual Studio and edit/build. 
+
 ## More Information
 
 Visit [My Website](http://www.jaruzel.com/blog/How-I-Erased-5000-Facebook-Comments-and-Likes) for more information.
