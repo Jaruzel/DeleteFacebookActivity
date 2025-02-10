@@ -1,4 +1,7 @@
 # Delete Facebook Activity
+
+**NOTE: THIS NO LONGER WORKS**
+
 Simple Tool to Crawl Facebook and Delete All Your Activity #DeleteFacebook
 
 * Compiles with Visual Studio 2017
